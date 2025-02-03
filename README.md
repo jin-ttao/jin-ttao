@@ -10,12 +10,12 @@
 #### 웰컴 토스트 @welcome-toast
 > 🎙️ 스크립트 한 줄로 끝! 개발자 도움 없이, 웹사이트에 토스트 메시지를 5분 만에 추가해보세요.<br>
 > 어드민 페이지에서 편집한 토스트 메시지를 연동된 웹사이트에 바로 적용할 수 있는 JavaScript SDK<br>
-> 개인 프로젝트 | [배포 주소](https://welcome-toast.com) | [README](https://github.com/welcome-toast/welcome-toast)
+> 개인 프로젝트 | [배포 주소](https://welcome-toast.com) | [README](https://github.com/welcome-toast/welcome-toast?tab=readme-ov-file#welcome-toast)
 
 #### 블로블로 @Bloblow
 > 🎙️ 우리 브랜드를 언급한 네이버 블로그 게시물을 한 곳에. 사용자들은 우리 브랜드를 어떻게 생각하고 있을까?<br>
 > 마케터의 콘텐츠 모니터링을 돕는, 키워드 기반 네이버 블로그 VoC 모니터링 툴<br>
-> 팀 프로젝트 (3인) | [배포 주소](https://bloblow.netlify.app) | [README](https://github.com/welcome-toast/welcome-toast)
+> 팀 프로젝트 (3인) | [배포 주소](https://bloblow.netlify.app) | [README](https://github.com/Team-Bloblow/Bloblow-Client?tab=readme-ov-file#bloblow)
 
 ---
 #### Tools
@@ -33,3 +33,4 @@
 - 딜리버리히어로 코리아 (요기요) 영업관리 인턴 2019.09 ~ 2019.12
 
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin-ttao&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
