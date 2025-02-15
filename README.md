@@ -14,14 +14,14 @@
 #### 웰컴 토스트 @welcome-toast
 > 어드민 페이지에서 편집한 토스트 메시지를 연동된 웹사이트에 바로 적용할 수 있는 JavaScript SDK<br>
 > 개인 프로젝트 | [배포 주소](https://welcome-toast.com) | [README](https://github.com/welcome-toast/welcome-toast?tab=readme-ov-file#welcome-toast)
-- 개발자 동료들이 프로젝트 런칭 마다 사용자 온보딩 부재로 이탈이 발생하는 걸 보았습니다.
-- 개발자가 쉽게 적용하고, 비개발자도 에디터로 자유롭게 수정할 수 있도록 토스트 메시지 SDK를 개발했습니다.
+
+개발자 동료들이 프로젝트 런칭 마다 사용자 온보딩 부재로 이탈이 발생하는 걸 보았어요. 개발자가 쉽게 적용하고, 비개발자도 에디터로 자유롭게 수정할 수 있도록 토스트 메시지 SDK를 개발했습니다.
 
 #### 블로블로 @Bloblow
 > 제품 팀과 마케터의 콘텐츠 모니터링을 돕는, 키워드 기반 네이버 블로그 VoC 모니터링 툴<br>
 > 팀 프로젝트 (3인) | [배포 주소](https://bloblow.netlify.app) | [README](https://github.com/Team-Bloblow/Bloblow-Client?tab=readme-ov-file#bloblow)
-- 이전 직장에서 브랜드/서비스 VoC 모니터링 과정의 효율을 높일 방법을 고민했던 경험에서 출발했습니다.
-- 네이버 블로그 데이터를 자동으로 수집, 수치화하여 인사이트를 도출할 수 있는 툴을 개발했습니다.
+
+이전 직장에서 브랜드/서비스 VoC 모니터링 과정의 효율을 높일 방법을 고민했던 경험에서 출발했어요. 네이버 블로그 데이터를 자동으로 수집, 수치화하여 인사이트를 도출할 수 있는 툴을 개발했습니다.
 
 ---
 #### Tools
