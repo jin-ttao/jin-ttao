@@ -4,7 +4,7 @@
 - 이전 PM 경험을 통해 사용자 중심 사고, 문제 정의 능력을 배웠어요 🔍
 - 복잡함을 단순화하는 기록을 노력해요 📘 [*7개월 동안 매일 아침 기록하기](https://www.as-tao.com/all/review-w48)
 - 아침 러닝, 웨이트 트레이닝을 즐겨요 🏃‍♂️
-- 제주에서 감귤 나무와 함께 자랐어요 🍊 [*둘리농장 SNS 운영중](https://www.instagram.com/dooly_jeju/)
+- 제주에서 감귤 나무와 함께 자랐어요 🍊 [*농장 SNS 운영중](https://www.instagram.com/dooly_jeju/)
 
 ---
 
