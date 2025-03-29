@@ -7,5 +7,3 @@
 
 > **Bloblow** 네이버 블로그 키워드 모니터링 툴 [>> 체험해보기](https://bloblow.netlify.app/dashboard/sample)<br/>
 > 팀 프로젝트(3인) | [README](https://github.com/Team-Bloblow/Bloblow-Client?tab=readme-ov-file#bloblow) | 블로그 ["4시간 소요되는 코드 리뷰, 최적화를 해보자!"](https://www.as-tao.com/all/team-project-2week/)
-
-w/ TypeScript, JavaScript, React, Next.js
